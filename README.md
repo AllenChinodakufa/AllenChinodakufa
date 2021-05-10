@@ -10,8 +10,13 @@ I'm extraordinary in delineations, web, and programming plans with over 4 years 
 - [School Website With Admin & Students Portal](https://github.com/AllenChinodakufa/complete-school-website/blob/main/README.md#HOME-PAGE)
 - [Mobile Programing Using Angular](https://drive.google.com/file/d/1sxY3c6d_hsdo-6zfyeW5Vfru8qWUBtjH/view?usp=sharing)
 
+## Certificates & Skills
+
+
 ## Get in touch
 [linkedin](https://www.linkedin.com/in/allen-chinodakufa-a08b9b1b7/)
+[email](mailto:allenchinodakufa7@gmail.com) 
+[contact](tel:+263771899951) 
 <!---
 AllenChinodakufa/AllenChinodakufa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
