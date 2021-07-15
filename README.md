@@ -8,11 +8,10 @@ I'm extraordinary in delineations, web, and programming plans with over 4 years 
 
 ## Most Recent Works
 
-| School App  | Online Farming | obile Programming
-| :---        |    :----:   |          ---: |
-| ![Screenshot (3)](https://user-images.githubusercontent.com/83924454/117595711-d3d6ea80-b141-11eb-9d36-6f8b2a105997.png) | ![Online Farming Web App](https://user-images.githubusercontent.com/83924454/125264057-d2719c00-e303-11eb-848b-7c1f09270021.png) | ![Online Farming Expenses](https://user-images.githubusercontent.com/83924454/125266731-647aa400-e306-11eb-9294-fc27fccfeb87.png) |
-| [School Website With Admin & Students Portal](https://github.com/AllenChinodakufa/complete-school-website/blob/main/README.md#HOME-PAGE) | [Online Farming](https://github.com/AllenChinodakufa/Online-Farming/) | [Mobile Programing Using Angular](https://drive.google.com/file/d/1sxY3c6d_hsdo-6zfyeW5Vfru8qWUBtjH/view?usp=sharing)
- |
+| School App  | Online Farming | Mobile Programming|
+| :---        |    :----:   | ---: |
+| ![Screenshot (3)](https://user-images.githubusercontent.com/83924454/117595711-d3d6ea80-b141-11eb-9d36-6f8b2a105997.png) | ![Online Farming Web App](https://user-images.githubusercontent.com/83924454/125264057-d2719c00-e303-11eb-848b-7c1f09270021.png) | ![quime](https://user-images.githubusercontent.com/83924454/125709675-96d4a0a7-f49b-4a0f-a210-6a33dcef18af.png) |
+| [School Website With Admin & Students Portal](https://github.com/AllenChinodakufa/complete-school-website/blob/main/README.md#HOME-PAGE) | [Online Farming](https://github.com/AllenChinodakufa/Online-Farming/) | [Mobile Programing Using Angular](https://drive.google.com/file/d/1sxY3c6d_hsdo-6zfyeW5Vfru8qWUBtjH/view?usp=sharing) |
 
 
 ## Get in touch
